@@ -1,29 +1,18 @@
-const num = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
+import Gugudan from './pages/Gugudan';
+import CourseCardPage from './pages/CourseCard';
 
-function App() {
+const App = () => {
   return (
-    <div style={{ display: "flex" }}>
-      {num.map(
-        (n) =>
-          n >= 2 &&
-          n !== 5 && (
-            <div
-              style={{
-                padding: 10,
-                color: n % 2 === 0 ? "black" : "blue",
-              }}
-              key={n}
-            >
-              {num.map((m) => (
-                <div key={`${n}-${m}`}>
-                  {n}x{m}={n * m}
-                </div>
-              ))}
-            </div>
-          )
-      )}
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/gugudan" element={<Gugudan />} />
+        <Route path="/coursecard" element={<CourseCardPage />} />
+      </Routes>
+    </BrowserRouter>
   );
-}
+};
 
 export default App;
