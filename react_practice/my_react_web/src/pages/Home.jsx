@@ -12,6 +12,9 @@ const Home = () => {
           <li>
             <Link to="/coursecard">Go to CourseCard Page</Link>
           </li>
+          <li>
+            <Link to="/accordion">Go to Accordion Page</Link>
+          </li>
         </ul>
       </nav>
     </div>
