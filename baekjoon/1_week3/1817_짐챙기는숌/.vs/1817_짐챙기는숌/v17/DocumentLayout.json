@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2rdWinterVacation\\baekjoon\\1_week3\\1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A80B0-311A-41A9-B5D9-DE9C7F4924D6}|1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817_\uC9D0\uCC59\uAE30\uB294\uC20C.vcxproj|C:\\2rdWinterVacation\\baekjoon\\1_week3\\1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD5A80B0-311A-41A9-B5D9-DE9C7F4924D6}|1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817_\uC9D0\uCC59\uAE30\uB294\uC20C.vcxproj|solutionrelative:1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1817.cpp",
+              "DocumentMoniker": "C:\\2rdWinterVacation\\baekjoon\\1_week3\\1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817.cpp",
+              "RelativeDocumentMoniker": "1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817.cpp",
+              "ToolTip": "C:\\2rdWinterVacation\\baekjoon\\1_week3\\1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817.cpp",
+              "RelativeToolTip": "1817_\uC9D0\uCC59\uAE30\uB294\uC20C\\1817.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T16:17:38.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
