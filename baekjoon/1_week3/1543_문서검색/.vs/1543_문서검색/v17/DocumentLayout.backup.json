@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2rdWinterVacation\\baekjoon\\1_week3\\1543_\uBB38\uC11C\uAC80\uC0C9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C66555-A644-462F-9682-D538EC4DD924}|1543_\uBB38\uC11C\uAC80\uC0C9\\1543_\uBB38\uC11C\uAC80\uC0C9.vcxproj|C:\\2rdWinterVacation\\baekjoon\\1_week3\\1543_\uBB38\uC11C\uAC80\uC0C9\\1543_\uBB38\uC11C\uAC80\uC0C9\\1543.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C66555-A644-462F-9682-D538EC4DD924}|1543_\uBB38\uC11C\uAC80\uC0C9\\1543_\uBB38\uC11C\uAC80\uC0C9.vcxproj|solutionrelative:1543_\uBB38\uC11C\uAC80\uC0C9\\1543.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1543.cpp",
+              "DocumentMoniker": "C:\\2rdWinterVacation\\baekjoon\\1_week3\\1543_\uBB38\uC11C\uAC80\uC0C9\\1543_\uBB38\uC11C\uAC80\uC0C9\\1543.cpp",
+              "RelativeDocumentMoniker": "1543_\uBB38\uC11C\uAC80\uC0C9\\1543.cpp",
+              "ToolTip": "C:\\2rdWinterVacation\\baekjoon\\1_week3\\1543_\uBB38\uC11C\uAC80\uC0C9\\1543_\uBB38\uC11C\uAC80\uC0C9\\1543.cpp*",
+              "RelativeToolTip": "1543_\uBB38\uC11C\uAC80\uC0C9\\1543.cpp*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T14:04:29.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
