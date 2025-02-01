@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2rdWinterVacation\\baekjoon\\2_week1\\1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4F9C1C-32D9-492B-8606-6B3C9A87B45A}|1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4.vcxproj|C:\\2rdWinterVacation\\baekjoon\\2_week1\\1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA4F9C1C-32D9-492B-8606-6B3C9A87B45A}|1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4.vcxproj|solutionrelative:1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1316.cpp",
+              "DocumentMoniker": "C:\\2rdWinterVacation\\baekjoon\\2_week1\\1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316.cpp",
+              "RelativeDocumentMoniker": "1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316.cpp",
+              "ToolTip": "C:\\2rdWinterVacation\\baekjoon\\2_week1\\1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316.cpp",
+              "RelativeToolTip": "1316_\uADF8\uB8F9\uB2E8\uC5B4\uCCB4\uCEE4\\1316.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T14:04:18.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
