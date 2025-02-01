@@ -1,4 +1,4 @@
-import MemoItem from './MemoItem';
+import MemoItem from '../MemoItem';
 
 function MemoList({
   memos,
