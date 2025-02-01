@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import MemoContainer from './components/MemoContainer';
+import MemoContainer from './components/MemoContainer'; // 알아서 index.js을 불러옴
 import SideBar from './components/SideBar';
 
 function App() {
@@ -37,6 +37,17 @@ function App() {
     ]);
     setSelectedMemoIndex(memos.length);
   };
+
+  const deleteMemo = (index) => {
+    const newMemos = [...memos]; // 불변성때문에 따로 생성성
+    newMemos.splice(index, 1); // index요소를 1개 삭제
+
+    setMemos(newMemos);
+    if (index == selectedMemoIndex) {
+      setSelectedMemoIndex(0);
+    }
+  };
+
   return (
     <div className="App">
       <SideBar
@@ -44,6 +55,7 @@ function App() {
         addMemo={addMemo}
         selectedMemoIndex={selectedMemoIndex}
         setSelectedMemoIndex={setSelectedMemoIndex}
+        deleteMemo={deleteMemo}
       />
       <MemoContainer memo={memos[selectedMemoIndex]} setMemo={setMemo} />
     </div>

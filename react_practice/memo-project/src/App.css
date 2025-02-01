@@ -32,23 +32,23 @@
   text-overflow: ellipsis;
   overflow: hidden; /*오버된 글자 ...으로 표시*/
   padding: 5px 8px;
+  box-sizing: border-box;
+  position: relative;
 }
 .MemoItem.selected {
   background-color: rgba(100, 100, 100, 0.3);
   font-weight: 500;
 }
-.MemoContainer {
-  background-color: beige;
-  flex: 1;
+.MemoItem_delete-button {
+  background: none;
+  color: red;
+  border: none;
+  position: absolute;
+  right: 0;
+  top: 5px;
+  cursor: pointer;
+  display: none;
 }
-.MemoContainer_title {
-  width: 100%;
-  box-sizing: border-box;
-  font-size: 2rem;
-}
-.MemoContainer_content {
-  width: 100%;
-  box-sizing: border-box;
-  font-size: 1.1rem;
-  min-height: 600px;
+.MemoItem:hover .MemoItem_delete-button {
+  display: inline-block;
 }

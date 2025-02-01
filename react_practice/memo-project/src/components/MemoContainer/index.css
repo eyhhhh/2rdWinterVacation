@@ -1,0 +1,15 @@
+.MemoContainer {
+  background-color: beige;
+  flex: 1;
+}
+.MemoContainer_title {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 2rem;
+}
+.MemoContainer_content {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1.1rem;
+  min-height: 600px;
+}
