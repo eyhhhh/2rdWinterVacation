@@ -1,9 +1,14 @@
-import { Link } from 'react-router-dom';
+import { styled } from 'styled-components';
 
 function CompletionPage() {
   return (
-    <div>CompletionPage</div>
+    <CompletionPageWrapper>CompletionPage</CompletionPageWrapper>
   );
 }
+
+const CompletionPageWrapper = styled.div`
+  background: aqua;
+  padding: 4em;
+`;
 
 export default CompletionPage;
